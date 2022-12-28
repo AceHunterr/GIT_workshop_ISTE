@@ -15,7 +15,7 @@ Do not jump Directly over Solution use the following hints and try to do it Your
 
     Note: You can clone anywhere you want but prefer Desktop for first time.
 
-![alt text for screen readers](/images/clone.png "Clone")
+![alt text for screen readers](./images/clone.png "Clone")
  
 
 
@@ -55,15 +55,15 @@ Do not jump Directly over Solution use the following hints and try to do it Your
 
 5. Now Open GitHub website and open the Above repo you will be able to see the option for creation of pull request. Click over <strong>Compare and pull Request</strong>.
 
-![alt text for screen readers](/images/PR.png "Compare and Pull request")
+![alt text for screen readers](./images/PR.png "Compare and Pull request")
 
 Now write something
 
-![alt text for screen readers](/images/write.png "Write Final Commit Msg")
+![alt text for screen readers](./images/write.png "Write Final Commit Msg")
 
 6. Final Step After writing commit message click over <strong>Create Pull Request</strong>.
 
-![alt text for screen readers](/images/final.png "Create Pull request")
+![alt text for screen readers](./images/final.png "Create Pull request")
 
 Note: You will not get the option for Merge Pull Request as you are not owner of the repo.
 
@@ -72,4 +72,4 @@ Note: You will not get the option for Merge Pull Request as you are not owner of
 # Have a look over Changes
 Test Folder Added and updated Readme.md
 
-![alt text for screen readers](/images/applied-changes.png "Changes")
+![alt text for screen readers](./images/applied-changes.png "Changes")
